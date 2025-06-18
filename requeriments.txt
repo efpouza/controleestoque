@@ -1,4 +1,4 @@
 streamlit
-SQLAlchemy
+sqlalchemy
 pandas
 plotly
