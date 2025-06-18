@@ -1,4 +1,0 @@
-streamlit
-sqlalchemy
-pandas
-plotly
